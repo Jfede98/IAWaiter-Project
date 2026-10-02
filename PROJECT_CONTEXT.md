@@ -141,14 +141,48 @@ Con equipo pequeño (2-3 devs): **4 a 6 meses** para un MVP funcional piloteable
 
 ---
 
+## Presupuesto estimado del equipo
+
+### Contexto
+- Inversión del cliente (extraoficial): ~$100,000 USD
+- Cliente vive en el exterior, paga en USD
+- Equipo basado en Ecuador
+- Duración estimada del proyecto: 4-6 meses
+- El equipo usará herramientas de IA para trabajar de forma eficiente
+
+### Rangos de mercado — Dev mid en Ecuador pagado en USD
+Un dev mid con 3-4 años de experiencia trabajando para cliente extranjero en USD: **$1,500 - $3,000/mes**
+
+### Propuesta de sueldos mensuales
+
+| Persona | Rol | Sueldo sugerido | Justificación |
+|---|---|---|---|
+| **Julian** | Fullstack + UX/UI Lead | **$2,200 - $2,500** | Más horas disponibles, doble perfil (dev + UX), lidera el producto |
+| Amigo dev | Backend / Conexiones | $1,800 - $2,000 | Menos horas disponibles, perfil más específico |
+| Amigo PM | Project Manager | $1,500 - $1,800 | Coordinación, manejo del cliente |
+
+### Totales estimados
+- **Por mes (equipo completo):** ~$5,500 - $6,300
+- **A 5 meses:** ~$27,500 - $31,500
+- Deja margen dentro de los $100k para hardware del piloto, infraestructura cloud, herramientas y contingencias
+
+### Táctica de negociación
+- No llegar preguntando cuánto pagan — llegar con número propio primero
+- Número de apertura para Julian: **$2,500/mes**
+- Si hay presión hacia abajo, el piso es $2,000
+- El argumento es: doble perfil (fullstack + UX), mayor dedicación horaria, y uso de IA como multiplicador de productividad
+
+---
+
 ## Notas y decisiones pendientes
 
 - [ ] Definir stack tecnológico concreto (Next.js? Node? Python backend? AWS/GCP?)
-- [ ] Confirmar si se suma el perfil backend/seguridad al equipo
-- [ ] Definir modelo de contratación (mensual, por hora, proyecto cerrado)
-- [ ] Armar propuesta de presupuesto de Julian para el proyecto
+- [ ] Confirmar incorporación del amigo dev (backend/conexiones) al equipo
+- [ ] Revisar el demo/código del MVP actual que enviará el cliente
+- [ ] Definir modelo de contratación formal (mensual fijo por ahora)
+- [ ] Hablar con el PM (amigo) para alinear números antes de ir al cliente
 - [ ] Revisar el MVP visual actual y definir qué se rescata
 
 ---
 
-*Última actualización: inicio del proyecto — contexto generado en sesión de análisis con Kiro AI*
+*Última actualización: análisis de presupuesto y equipo — sesión con Kiro AI*
